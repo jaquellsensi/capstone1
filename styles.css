@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-size: xx-large;
+    color: rgb(217, 255, 0);
+    font-family: 'Tilt Neon', sans-serif;
+}
+.navbar-brand:hover{
+    color: black;
+}
+.nav-item a{
+    margin-right: 15px;
+    margin-left: 15px;
+    color:black;
+    text-transform: uppercase;
+    font-family: 'Tilt Neon', sans-serif;
+}
+.nav-item a:hover{
+    color:rgb(217, 255, 0);
+}
+.d-flex{
+    color: rgb(217, 255, 0);
+    font-size: large;
+    cursor: pointer;
+}
+.main{
+    background: url(images/hogan.jpg) no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.main p{
+    font-size: x-large;
+    text-transform: uppercase;
+}
+.main h1{
+    font-size: 5rem;
+    font-weight: 800;
+}
