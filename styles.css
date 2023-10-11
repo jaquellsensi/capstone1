@@ -15,6 +15,7 @@
     margin-right: 15px;
     margin-left: 15px;
     color:black;
+
     text-transform: uppercase;
     font-family: 'Tilt Neon', sans-serif;
 }
@@ -39,4 +40,52 @@
 .main h1{
     font-size: 5rem;
     font-weight: 800;
+}
+.btn2{
+    height: 45px;
+    width: 40%;
+    color: white;
+    outline: none;
+    border: none;
+    background: rgb(217, 255, 0);
+    font-weight: bold;
+    transition: all 0.4s;
+    cursor: pointer;
+}
+.btn2:hover{
+    border: rgb(217, 255, 0);
+    background: transparent;
+    color: rgb(217, 255, 0);
+    transition: all 0.4s;
+}
+.btnc{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 53px;
+    width: 40%;
+    color: black;
+    border: none;
+    outline: none;
+    background: white;
+    cursor: all 0.4s;
+}
+.btnc:hover{
+    background: rgb(217, 255, 0);
+    color: white;
+    transition: all 0.4s;
+}
+.zoom-n-rotate{
+    border-radius: 0;
+    outline: none;
+    overflow: hidden;
+    cursor: pointer;
+
+}
+.zoom-n-rotate img{
+    transition: transform .5s ease-in-out;
+}
+.zoom-n-rotate:hover img{
+    transform: scale(1.5);
 }
