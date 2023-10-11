@@ -90,7 +90,7 @@
     transform: scale(1.5);
 }
 .product h1{
-
+font-weight: 600;
 }
 .product{
     background: rgb(246, 243, 243);
