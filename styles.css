@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+.custom-navbar{
+    background-color: #6D5C53;
+}
 .navbar-brand{
     font-size: xx-large;
     color: rgb(217, 255, 0);
@@ -45,10 +48,11 @@
     height: 45px;
     width: 40%;
     color: white;
+    text-decoration: none;
     outline: none;
-    border: none;
+    border: black;
     background: rgb(217, 255, 0);
-    font-weight: bold;
+    font-weight: 1000;
     transition: all 0.4s;
     cursor: pointer;
 }
