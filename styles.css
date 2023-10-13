@@ -29,7 +29,7 @@
     color:rgb(132, 221, 99);
 }
 .d-flex{
-    color: rgb(0, 0, 0);
+    color: white;
     font-size: large;
     cursor: pointer;
 }
@@ -117,9 +117,12 @@ font-weight: 600;
     transform: translate(-50%, -50%);
 }
 
- 
-
-
+.body{
+    background-color: #6D5C53;
+} 
+.body section{
+    background-color: #e9b093;
+}
 
 
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
@@ -179,7 +182,9 @@ font-weight: 600;
 .form .register-form {
   display: none;
 }
-
+h2{
+    font-family: 'Permanent Marker', cursive;
+}
 /*
 .container {
   position: relative;
