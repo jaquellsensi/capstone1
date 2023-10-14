@@ -78,6 +78,9 @@
     outline: none;
     background: goldenrod;
     cursor: all 0.4s;
+    text-align: center;
+    font-family: 'Tilt Neon', sans-serif;
+    text-decoration: none;
 }
 .btnc:hover{
     background: rgb(164, 191, 235)ew;
@@ -85,6 +88,7 @@
     transition: all 0.4s;
 }
 .zoom-n-rotate{
+    position: relative;
     border-radius: 0;
     outline: none;
     overflow: hidden;
@@ -185,6 +189,9 @@ font-weight: 600;
 h2{
     font-family: 'Permanent Marker', cursive;
 }
+.centered-paragraph{
+    text-align: center;
+}
 /*
 .container {
   position: relative;
@@ -192,13 +199,13 @@ h2{
   max-width: 100px;
   margin: 0 auto;
 }
-/*
+
 .container:before, .container:after {
   content: "";
   display: block;
   clear: both;
 }
-/*
+
 .container .info {
   margin: 50px auto;
   text-align: center;
