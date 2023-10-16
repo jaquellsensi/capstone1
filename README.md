@@ -35,3 +35,26 @@ To run the Copycat Clothing website locally, use the following command:
 
 ```bash
 npm start
+
+
+
+### Home Page
+![Home Page](images/home.JPG)
+
+### Men's Page
+![Men's Page](images/men.JPG)
+
+### Women's Page
+![Women Page](images/women.JPG)
+
+### Kid's Page
+![Kid's Page](images/kid.JPG)
+
+### Register Page
+![Register Page](images/register.JPG)
+
+### Sign In Page
+![Sign In Page](images/signin.JPG)
+
+### Checkout Page
+![Checkout Page](images/checkout.JPG)
