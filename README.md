@@ -33,10 +33,9 @@ To install Copycat Clothing on your local machine, follow these steps:
 
 To run the Copycat Clothing website locally, use the following command:
 
-```bash
 npm start
 
-
+http://127.0.0.1:5500/index.html
 
 ### Home Page
 ![Home Page](images/home.JPG)
