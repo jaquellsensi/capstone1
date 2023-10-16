@@ -57,3 +57,8 @@ http://127.0.0.1:5500/index.html
 
 ### Checkout Page
 ![Checkout Page](images/checkout.JPG)
+
+### Interesting HTML 
+![HTML Code](images/codehtml.JPG)
+
+![CSS Code](images/codecss.JPG)
